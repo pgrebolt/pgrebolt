@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Pau!
 
-<!--
-**pgrebolt/pgrebolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🧭 Physist
+- ⚗️ Chemist
+- 🪐 M.Sc. Astrophysics
+- 🌠 PhD student in Meteoritics and Planetary Sciences at ICE-CSIC.
+- 📊 Trying to apply ML/DL models to my framework.
+- 💻 Python, C++, HTML, CSS, MatLab.
+- 📫 How to reach me: grebol@ice.csic.es.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+## 📣 Let's Connect
+
+- Twitter: [@pgrebolt](https://twitter.com/pgrebolt)
+- LinkedIn: [Pau Grèbol](https://www.linkedin.com/in/pau-grebol-tomas)
+
