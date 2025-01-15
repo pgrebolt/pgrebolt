@@ -3,13 +3,13 @@
 ---
 
 ## 🚀 About Me
-- 🧭 Physist
+- 🧭 Physicist
 - ⚗️ Chemist
 - 🪐 M.Sc. Astrophysics
 - 🌠 PhD student in Meteoritics and Planetary Sciences at ICE-CSIC.
 - 📊 Trying to apply ML/DL models to my framework.
 - 💻 Python, C++, HTML, CSS, MatLab.
-- 📫 How to reach me: grebol@ice.csic.es.
+- 📫 How to reach me: grebol@ice.csic.es
 
 ---
 
