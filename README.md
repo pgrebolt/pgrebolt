@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🧭 Physicist
 - ⚗️ Chemist
-- 🪐 M.Sc. Astrophysics
+- 🪐 M.Sc. Astrophysics (@Universidad-de-La-Laguna)
 - 🌠 PhD student in Meteoritics and Planetary Sciences at ICE-CSIC.
 - 📊 Trying to apply ML/DL models to my framework.
 - 💻 Python, C++, HTML, CSS, MatLab.
