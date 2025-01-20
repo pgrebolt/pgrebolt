@@ -22,6 +22,6 @@
 
 ## 📣 Let's Connect
 
-- Twitter: [@pgrebolt](https://twitter.com/pgrebolt)
+- X: [@pgrebolt](https://twitter.com/pgrebolt)
 - LinkedIn: [Pau Grèbol](https://www.linkedin.com/in/pau-grebol-tomas)
 
