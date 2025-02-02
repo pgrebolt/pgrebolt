@@ -27,6 +27,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyQGIS](https://img.shields.io/badge/-PyQGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Cartopy](https://img.shields.io/badge/-Cartopy-0074D9?style=flat-square&logo=python&logoColor=white)
+![xarray](https://img.shields.io/badge/-xarray-0769AD?style=flat-square&logo=xarray&logoColor=white)
 
 ---
 
