@@ -7,7 +7,8 @@
 - ⚗️ Chemist
 - 🪐 M.Sc. Astrophysics
 - 🌠 PhD student in Meteoritics and Planetary Sciences at ICE-CSIC.
-- 📊 Trying to apply ML/DL models to my framework.
+- 📈 Data analysis and applied simulations.
+- 📊 Applying ML/DL models to my framework.
 
 ---
 
