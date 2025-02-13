@@ -18,6 +18,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MatLab](https://img.shields.io/badge/-MatLab-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![HDF5](https://img.shields.io/badge/-HDF5-FF6F00?style=flat-square&logo=hdf5&logoColor=white)
+![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 
 ## 📦 Packages
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
