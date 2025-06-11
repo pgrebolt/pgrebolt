@@ -8,6 +8,7 @@
 - 🪐 M.Sc. Astrophysics
 - 🌠 PhD student in Meteoritics and Planetary Sciences at ICE-CSIC.
 - 📈 Data analysis and applied simulations.
+- 🎲 Bayesian modelling.
 - 📊 Applying ML/DL models to my framework.
 
 ---
@@ -31,6 +32,7 @@
 ![PyQGIS](https://img.shields.io/badge/-PyQGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Cartopy](https://img.shields.io/badge/-Cartopy-0074D9?style=flat-square&logo=python&logoColor=white)
 ![xarray](https://img.shields.io/badge/-xarray-0769AD?style=flat-square&logo=xarray&logoColor=white)
+![PyMC](https://img.shields.io/badge/-PyMC-0769AD?style=flat-square&logo=PyMC&logoColor=white)
 
 ---
 
