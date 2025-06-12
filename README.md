@@ -38,6 +38,6 @@
 
 ## 📣 Let's Connect
 - Email: [grebol@ice.csic.es](mailto:grebol@ice.csic.es)
-- ![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=X&logoColor=white) [@pgrebolt](https://x.com/pgrebolt)
+- ![Twitter](https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=X&logoColor=white) [@pgrebolt](https://x.com/pgrebolt)
 - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [Pau Grèbol](https://www.linkedin.com/in/pau-grebol-tomas)
 
